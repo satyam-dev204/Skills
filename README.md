@@ -1,1 +1,2 @@
 # Skills
+This is frontend project, which is clone of PW skills.<br> This project is my first project which consists tailwind thats why this done under guidance of Hitesh Choudhary through youtube channel College Wallah. <br>
